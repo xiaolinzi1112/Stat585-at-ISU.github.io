@@ -1,29 +1,12 @@
 ---
-layout: blog
+Title: "How to make sure the geom_text graph labels stays at the right place?"
+Author: Lin Quan
+layout: post
 topic: "01"
 short-topic: Asking Good Questions
 due-date: 2022-01-27
 root: ../../
 ---
-
-## Prompt:
-
-Asking good questions is a valuable skill to have - asking questions in an online setting is both easier and harder than asking questions in person: we can prepare to ask a question but we are also expected to prepare.
-The links posted here give some advice on how to ask good questions:
-
-- stackoverflow's [Asking a good question](http://stackoverflow.com/help/how-to-ask)
-
-- R's [Posting guidelines](https://www.r-project.org/posting-guide.html)
-
-- [minimal complete verifiable example](https://stackoverflow.com/help/mcve), [minimal reproducible example](https://www.tidyverse.org/help/)
-
-Follow these links and read through the advice given, then
-
-1. **Pick at least one question from stackoverflow or the R help and answer it.**
-
-Write a blog post answering the following questions: 
-
-2. **Document which question you answered (link to your answer).**
 
 Question: How to make sure the geom_text graph labels stays at the right place?
 
